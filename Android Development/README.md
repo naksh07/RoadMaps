@@ -8,3 +8,4 @@
 8. Android Architecture Blueprints - https://github.com/googlesamples/android-architecture
 9. Common Design Patterns in Android - https://www.raywenderlich.com/109843/common-design-patterns-for-android
 10. How to master Android: What developers can learn from 21 apps - https://techbeacon.com/how-master-android-what-developers-can-learn-21-apps
+11. Android Developer Nanodegree Program - https://in.udacity.com/android-developer/
